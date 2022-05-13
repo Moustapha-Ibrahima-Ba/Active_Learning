@@ -2,6 +2,12 @@
 Hey, how are you? As its name suggests, you will find in this folder everything I learn day by day.
 
 ## Outline
+- [Books](Books)
+    - [Algorithms](Books/Algorithms/)
+    - [Machine Learning](Books/Machine_Learning/)
+    - [Others](Books/Others/)
+    - [Python](Books/Python/)
+    - [Unix](Books/Unix/)
 - [Cheat_Sheet](Cheat_Sheet)
 - [DAUST](DAUST)
     - [Machine Learning](DAUST/Machine%20Learning/)
