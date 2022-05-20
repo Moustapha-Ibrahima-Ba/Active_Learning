@@ -71,14 +71,31 @@
     <hr />
     <!-- JAVASCRIPT -->
     <script>
-      <!-- Test of the alert -->
       document.write("Test of the alert <br />");
       document.write("Hello world from DOCUMENT.WRITE <br />");
-      alert("Hello world from alert");
+      // alert("Hello world from alert");
 
       x = "letter X";
       document.write(x);
       document.write("<br />");
+
+      c = confirm("Do you read a book?");
+      if (c) {
+        alert("Congratulations DAUSTIANS!");
+      } else {
+        alert("Go read it!!!");
+      }
+      document.write("<br /");
+
+      // Prompt the user
+      p = prompt(
+        "What is the orange prefix number in senegal (as a mobil operator)?"
+      );
+      if (p == "77") {
+        alert("True");
+      } else {
+        alert("False");
+      }
     </script>
   </body>
 </html>
