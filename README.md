@@ -7,6 +7,7 @@ Please...🙏
     - Give a star ⭐
     - Follow me 😊
     - Share it 😍
+    
 # OUTLINE
 Each header is a link. Click on it to directly open the folder.
 
@@ -22,8 +23,10 @@ You can **download** them 😇
 - ### [Python](Books/Python/)
 - ### [Unix](Books/Unix/)
 - ### [Others](Books/Others/)
+
 ## - [Cheat_Sheet](Cheat_Sheet) 📔
 Cheat sheets are very important for IT people. They make it possible to gain in efficiency by wasting less time programming thanks to shortcuts.
+
 ## - [DAUST](DAUST) 🏫
 DAUST stands for Dakar American University of Science and Technology. She is based in Somone, Thiés, Senegal.
 It is the only American university in Senegal. Its mission is to train the best engineers.
@@ -33,6 +36,10 @@ I am a junior computer science engineer student and you will find in this folder
     Those predictions may help to lead a company to the success.
     #### - [Homeworks](DAUST/Machine%20Learning/Homeworks/)
     #### - [Ressources](DAUST/Machine%20Learning/Ressources/)🗂
+
+## - [Resume](Resume)
+Here is my resume.
+
 ## - [Web Development](Web_Dev) 💻
 I want to become a software developer. Having knowledge about Web Development could be very useful and even essential.
 For that, there are plenty of places where I study.
