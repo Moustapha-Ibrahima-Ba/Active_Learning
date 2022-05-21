@@ -87,9 +87,18 @@
       }
       document.write("<br /");
 
-      // Prompt the user
+      // Prompt the user for the orange prefix
       p = prompt(
         "What is the orange prefix number in senegal (as a mobil operator)?"
+      );
+      if (p == "77") {
+        alert("True");
+      } else {
+        alert("False");
+      }
+      // prompt the user for the country prefix
+      p = prompt(
+        "What is the country prefix of senegal (as a mobil operator)?"
       );
       if (p == "77") {
         alert("True");
