@@ -38,7 +38,7 @@ I am a junior computer science engineer student and you will find in this folder
     #### - [Ressources](DAUST/Machine%20Learning/Ressources/)🗂
 
 ## - [Resume](Resume)
-Here is my resume.
+Here is my resume. Before the next holidays, I would like to fill it with the Colt Steele and Angela Yu projects that are in their Web Development courses on Udemy.
 
 ## - [Web Development](Web_Dev) 💻
 I want to become a software developer. Having knowledge about Web Development could be very useful and even essential.
