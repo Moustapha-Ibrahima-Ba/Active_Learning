@@ -5,6 +5,14 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+hr {
+    border-style: none; /* There is no border at all (The hr is unseen)*/
+    border-top-style: dotted; /* Only border is the top side*/
+    border-color: grey;
+    border-width: 5px; /* Sets the width of an element's border */
+    width: 5%;
+  }
+
 /*** TOP-CONTAINER ***/
 .top-container {
     background-color: #E4F9F5;
@@ -35,14 +43,10 @@ h1 {
 
 /*** MIDDLE-CONTAINER ***/
 .middle-container {
-    background-color: red;
-    width: 200px;
-    height: 200px;
+
 }
 
 /*** BOTTOM-CONTAINER ***/
 .bottom-container {
-    background-color: blue;
-    width: 200px;
-    height: 200px;
+
 }
