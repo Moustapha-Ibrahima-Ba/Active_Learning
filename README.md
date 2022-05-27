@@ -35,7 +35,7 @@ I am a junior computer science engineer student and you will find in this folder
     On my opinion, Machine Learning is very important. I learn how to train a computer in order to make predictions.
     Those predictions may help to lead a company to the success.
     #### - [Homeworks](DAUST/Machine%20Learning/Homeworks/)
-    #### - [Ressources](DAUST/Machine%20Learning/Ressources/)🗂
+    #### - [resources](DAUST/Machine%20Learning/resources/)🗂
 
 ## - [Resume](Resume)
 Here is my resume. Before the next holidays, I would like to fill it with the Colt Steele and Angela Yu projects that are in their Web Development courses on Udemy.
@@ -48,8 +48,8 @@ For that, there are plenty of places where I study.
     - #### [Angela Yu](Web_Dev/Udemy/Angela_Yu/) 👩🏻💻
         The Web Development Bootcamp of Dr Angela Yu is highly rated. She teaches HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps.
         - ##### [Code](Web_Dev/Udemy/Angela_Yu/Code/)
-        - ##### [Ressources](Web_Dev/Udemy/Angela_Yu/Ressources/)🗂
+        - ##### [resources](Web_Dev/Udemy/Angela_Yu/resources/)🗂
     - #### [Colt Steele](Web_Dev/Udemy/Colt_Steele/)👨💻
         The Web Development Bootcamp of Colt steele is highly rated. He teaches HTML, CSS, JS, Node, and More!
         - ##### [Code](Web_Dev/Udemy/Colt_Steele/Code/)
-        - ##### [Ressources](Web_Dev/Udemy/Colt_Steele/Ressources/)🗂
+        - ##### [resources](Web_Dev/Udemy/Colt_Steele/resources/)🗂
