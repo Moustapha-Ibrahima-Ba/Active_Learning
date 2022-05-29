@@ -40,7 +40,7 @@ I am a junior computer science engineer student and you will find in this folder
 ## - [Resume](Resume)
 Here is my resume. Before the next holidays, I would like to fill it with the Colt Steele and Angela Yu projects that are in their Web Development courses on Udemy.
 
-## - [Web Development](Web_Dev) 💻
+<!-- ## - [Web Development](Web_Dev) 💻
 I want to become a software developer. Having knowledge about Web Development could be very useful and even essential.
 For that, there are plenty of places where I study.
 - ### [Udemy](Web_Dev/Udemy/)
@@ -52,4 +52,4 @@ For that, there are plenty of places where I study.
     - #### [Colt Steele](Web_Dev/Udemy/Colt_Steele/)👨💻
         The Web Development Bootcamp of Colt steele is highly rated. He teaches HTML, CSS, JS, Node, and More!
         - ##### [Code](Web_Dev/Udemy/Colt_Steele/Code/)
-        - ##### [resources](Web_Dev/Udemy/Colt_Steele/resources/)🗂
+        - ##### [resources](Web_Dev/Udemy/Colt_Steele/resources/)🗂 -->
