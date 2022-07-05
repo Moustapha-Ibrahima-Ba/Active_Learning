@@ -11,8 +11,8 @@ Please...🙏
 # OUTLINE
 Each header is a link. Click on it to directly open the folder.
 
-## - [BILLES](BILLES) 🏫
-BILLES is a private school. I am doing a web development class for them so they will master it.
+<!-- ## - [BILLES](BILLES) 🏫
+BILLES is a private school. I am doing a web development class for them so they will master it. -->
 
 ## - [Books](Books) 📚
 Recently, I started to enjoy reading books that talk about computers and programming.
