@@ -25,11 +25,10 @@ You can **download** them 😇
 Cheat sheets are very important for IT people. They make it possible to gain in efficiency by wasting less time programming thanks to shortcuts.
 
 ## - [DAUST](DAUST) 🏫
-DAUST stands for Dakar American University of Science and Technology. She is based in Somone, Thiés, Senegal.
-It is the only American university in Senegal. Its mission is to train the best engineers.
-I am a junior computer science engineer student and you will find in this folder some of the courses that I would have to take during my studies.
+DAUST stands for Dakar American University of Science and Technology. It is based in Somone, Thiés, Senegal and is the only American university in Senegal. Its mission is to train the best engineers.
+I am a junior computer science engineer student and you will find in this folder some of my courses.
 -  ### [Machine Learning](DAUST/Machine%20Learning/)
-    On my opinion, Machine Learning is very important. I learn how to train a computer in order to make predictions.
+    On my opinion, Machine Learning is very important. I learn how to train a computer to make predictions.
     Those predictions may help to lead a company to the success.
     #### - [Homeworks](DAUST/Machine%20Learning/Homeworks/)
     #### - [resources](DAUST/Machine%20Learning/resources/)🗂
