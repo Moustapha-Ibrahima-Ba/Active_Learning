@@ -9,7 +9,6 @@ Please...🙏
     - Share it 😍
     
 # OUTLINE
-Each header is a link. Click on it to directly open the folder.
 
 ## - [Books](Books) 📚
 Recently, I started to enjoy reading books that talk about computers and programming.
@@ -22,13 +21,13 @@ You can **download** them 😇
 - ### [Others](Books/Others/)
 
 ## - [Cheat_Sheet](Cheat_Sheet) 📔
-Cheat sheets are very important for IT people. They make it possible to gain in efficiency by wasting less time programming thanks to shortcuts.
+Cheat sheets are very important. They help gaining efficiency while programming thanks to the shortcuts.
 
 ## - [DAUST](DAUST) 🏫
 DAUST stands for Dakar American University of Science and Technology. It is based in Somone, Thiés, Senegal and is the only American university in Senegal. Its mission is to train the best engineers.
 I am a junior computer science engineer student and you will find in this folder some of my courses.
 -  ### [Machine Learning](DAUST/Machine%20Learning/)
-    On my opinion, Machine Learning is very important. I learn how to train a computer to make predictions.
+    Machine Learning is very important. I learn how to train a computer to make predictions.
     Those predictions may help to lead a company to the success.
     #### - [Homeworks](DAUST/Machine%20Learning/Homeworks/)
     #### - [resources](DAUST/Machine%20Learning/resources/)🗂
