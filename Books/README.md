@@ -1,3 +1,6 @@
 # **BOOKS**
 
-In this folder, there are books about many topics such as Python, Unix...
+In this folder, you'll find books about topics such as:
+Algorithms 
+Python
+Unix
